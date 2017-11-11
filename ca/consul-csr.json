@@ -10,11 +10,11 @@
   },
   "names": [
     {
-      "C": "US",
-      "L": "Portland",
-      "O": "Hightower Labs",
-      "OU": "Consul",
-      "ST": "Oregon"
+    	"C": "CH",
+	"L": "Thierrens",
+	"O": "Kubernetes",
+	"OU": "Home",
+	"ST": "VD"
     }
   ]
 }
